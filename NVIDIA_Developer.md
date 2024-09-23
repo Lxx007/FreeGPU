@@ -27,4 +27,6 @@ Click the Generate API Key button on the page to get your own API key.
 Once you have the API key, the page will tell you how to run your chosen model locally. You will need to prepare your own IDE.
 <img src="https://github.com/Lxx007/FreeGPU/blob/main/Pictures/NVIDIA/RunLocal.bmp" width="600" />
 
-# Your NVIDIA Developer Program page
+# Let's check if you can run the Model!
+The environment is visual studio 2022, after getting the API Key for meta/llama-3.1-405b-instruct in NVIDIA NIM, the result is as follows：
+<img src="https://github.com/Lxx007/FreeGPU/blob/main/Pictures/NVIDIA/ShowResults.bmp" width="600" />
