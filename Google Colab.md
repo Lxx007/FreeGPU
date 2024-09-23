@@ -5,4 +5,4 @@ The webpage is "https://colab.research.google.com/"
 
 After you open this website, you will see the following page.
 
-![ColabInitial](https://drive.google.com/file/d/1U5BdKu5pZDb8YLtrpOy5nqeEz15jYq3q/view)
+![ColabInitial](https://github.com/Lxx007/FreeGPU/blob/main/Pictures/ChooseFile.bmp)
