@@ -1,5 +1,7 @@
 # How to use Free GPUs on Google Colab
 
+Please prepare your Google account in advance!
+
 Google Colab is a project of Google Research, a free Jupyter-based environment that allows us to create Jupyter notebooks to write and run Python (and other Python-based third-party tools and machine learning frameworks such as Pandas, PyTorch, Tensorflow, Keras, Monk, OpenCV, and others) in a web browser.
 The webpage is "https://colab.research.google.com/"
 
