@@ -4,4 +4,4 @@ Google Colab is a project from Google Research, a free, Jupyter based environmen
 The webpage is "https://colab.research.google.com/"
 
 After you open this website, you will see the following page.
-![alt text](https://github.com/Lxx007/FreeGPU/tree/main/Pictures/ColabInitial.bmp?raw=true)
+![plot](https://github.com/Lxx007/FreeGPU/tree/main/Pictures/ColabInitial.bmp?raw=true)
