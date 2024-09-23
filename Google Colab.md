@@ -51,5 +51,5 @@ torch.cuda.get_device_name(0) --> Your current GPU name
 
 # Warning
 GoogleColab's free GPU plan is not the ultimate use for you. You have limited usage and it is not guaranteed. You should check the detailed information in the image below! Click 1.
-<img src="https://github.com/Lxx007/FreeGPU/blob/main/Pictures/GPUSuccess.bmp" width="1500" />
+<img src="https://github.com/Lxx007/FreeGPU/blob/main/Pictures/CheckGPU.bmp" width="1000" />
 
