@@ -6,3 +6,4 @@ The webpage is "https://colab.research.google.com/"
 After you open this website, you will see the following page.
 
 ![ColabInitial](https://github.com/Lxx007/FreeGPU/blob/main/Pictures/ChooseFile.bmp)
+<img src="https://github.com/Lxx007/FreeGPU/blob/main/Pictures/ChooseFile.bmp" width="200" />
