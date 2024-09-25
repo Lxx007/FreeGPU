@@ -43,7 +43,7 @@ torch.cuda.is_available()
    data = data.to(device)
    ```
    
-2. Check GPU Resource Limits: Kaggle provides limited GPU time, so make sure to optimize your code to make the best use of the GPU. You get around 30 hours of GPU time per week.
+2. Check GPU Resource Limits: Kaggle provides limited GPU time, so make sure to optimize your code to make the best use of the GPU. You get around 30 hours of GPU time per week and 12 hours per once.
    and you can also see the space limits in "Draft Session".
    <img src="https://github.com/Lxx007/FreeGPU/blob/main/Pictures/Kaggle/draftsession.bmp" width="800" />  
 
