@@ -29,25 +29,22 @@ After clicking 2, you will see the following choices. Make your own choice.
 Save your choice. 
 # Then let's check if the GPU has been successfully set!
 Use the following code, if your output is "True" it means your project is now running in a GPU environment!
-
+```bash
 import torch
-
 torch.cuda.is_available()
+```
 
 <img src="https://github.com/Lxx007/FreeGPU/blob/main/Pictures/GPUSuccess.bmp" width="1500" />
 
 # More
 You can use the following code to check your detailed GPU settings!
-
-torch.cuda.is_available() --> GPU availability
-
-torch.cuda.current_device() --> your current GPU ID
-
-torch.cuda.device(0) --> Your current GPU address
-
-torch.cuda.device_count() --> Available number of GPUs
-
-torch.cuda.get_device_name(0) --> Your current GPU name
+```bash
+torch.cuda.is_available() #--> GPU availability
+torch.cuda.current_device() #--> your current GPU ID
+torch.cuda.device(0) #--> Your current GPU address
+torch.cuda.device_count() #--> Available number of GPUs
+torch.cuda.get_device_name(0) #--> Your current GPU name
+```
 
 # Warning
 GoogleColab's free GPU plan is not the ultimate use for you. You have limited usage and it is not guaranteed. You should check the detailed information in the image below! Click 1.
