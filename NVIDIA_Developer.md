@@ -30,3 +30,7 @@ Once you have the API key, the page will tell you how to run your chosen model l
 # Let's check if you can run the Model!
 The environment is visual studio 2022, after getting the API Key for meta/llama-3.1-405b-instruct in NVIDIA NIM, the result is as follows：
 <img src="https://github.com/Lxx007/FreeGPU/blob/main/Pictures/NVIDIA/ShowResults.bmp" width="600" />
+
+# Other models you want to use through API key
+You can check the following page: https://build.nvidia.com/explore/discover
+
